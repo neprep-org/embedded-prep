@@ -11,3 +11,7 @@ Available are:
 - IoT : Sample project dealing with IoT
 - ESP8266 : Dealing with ESP8266
 - I2C-LCD project: Dealing with i2c with lcd
+
+## Credits
+
+Vito project is work of [NiyiduhumugishaEden](https://github.com/NiyiduhumugishaEden), you can leave a star on [ORIGINAL REPO FOR VITO PROJECT HERE](https://github.com/NiyiduhumugishaEden/vito_app_shoping)
